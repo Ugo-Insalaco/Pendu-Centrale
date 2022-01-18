@@ -1,0 +1,3 @@
+Jeanne,GARDIEN,True
+Ugo,ESCALADER,True
+Ugo,FILE,False
